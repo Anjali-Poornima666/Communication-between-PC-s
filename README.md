@@ -11,6 +11,6 @@
  
  <h2> How to run </h2>
  The codes for each application are given in the respective folders for transmiter 1 and 2 and also receivers 1 and 2 .
- Applications used are : Arduino ,  eclipse , processor 3 ide , python ide
+ Applications used are : Arduino ,  eclipse , processor 3 ide , python ide <br>
  Hardware used : <a href = 'https://www.engineersgarage.com/electronic-components/rf-module-transmitter-receiver'>Rf module</a> 
  
